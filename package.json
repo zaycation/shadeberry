@@ -1,0 +1,21 @@
+{
+    "name": "shadeberry",
+    "displayName": "shadeberry",
+    "description": "Shades of purple theme inspired by berries",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "SHADEBERRY",
+                "uiTheme": "vs-dark",
+                "path": "./themes/SHADEBERRY-color-theme.json"
+            }
+        ]
+    }
+}
